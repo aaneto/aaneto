@@ -1,6 +1,6 @@
 # Who am I?
 
-Software Developer born in 1996, my interests range from distributed systems (for dummies) and web development all the way to wooden home made kunais. 
+Software Developer born in 1996, my interests range from distributed systems (for dummies) and web development all the way to wooden homemade kunais. 
 
 ## What tech do I know?
 
