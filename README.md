@@ -1,16 +1,18 @@
-### Hi there 👋
+# Who am I?
 
-<!--
-**aaneto/aaneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer born in 1996, my interests range from distributed systems (for dummies) and web development all the way to wooden home made kunais. 
 
-Here are some ideas to get you started:
+## What tech do I know?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can be of use with:
+
+- Python
+- Typescript
+- Javascript
+- Rust
+
+### Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsonneto/?locale=en_US)](https://www.linkedin.com/in/adilsonneto/?locale=en_US)
+
+[![Aaneto's github stats](https://github-readme-stats.vercel.app/api?username=aaneto)](https://github.com/aaneto/github-readme-stats)
