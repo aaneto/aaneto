@@ -1,6 +1,6 @@
 # Who am I?
 
-Software Developer born in 1996, my interests range from distributed systems (for dummies) and web development all the way to wooden homemade kunais. 
+Software Engineer born in 1996 based on Brazil, currently working with crawlers at [MelhorPlano](https://melhorplano.net).
 
 ## What tech do I know?
 
@@ -9,6 +9,7 @@ I can be of use with:
 - Python
 - Typescript
 - Javascript
+- Flutter
 - Rust
 
 ### Connect with me
